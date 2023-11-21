@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00644b81.chunk.css",
+    "main.js": "/static/js/main.e26342f6.chunk.js",
+    "main.js.map": "/static/js/main.e26342f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c866947c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c866947c.js.map",
+    "static/js/2.c9e92ab1.chunk.js": "/static/js/2.c9e92ab1.chunk.js",
+    "static/js/2.c9e92ab1.chunk.js.map": "/static/js/2.c9e92ab1.chunk.js.map",
+    "static/js/3.8a38de64.chunk.js": "/static/js/3.8a38de64.chunk.js",
+    "static/js/3.8a38de64.chunk.js.map": "/static/js/3.8a38de64.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.00644b81.chunk.css.map": "/static/css/main.00644b81.chunk.css.map",
+    "static/js/2.c9e92ab1.chunk.js.LICENSE.txt": "/static/js/2.c9e92ab1.chunk.js.LICENSE.txt",
+    "static/media/imagecard.4f4735ff.jpg": "/static/media/imagecard.4f4735ff.jpg",
+    "static/media/isotipo trans.a824338b.png": "/static/media/isotipo trans.a824338b.png",
+    "static/media/isotipo.8d9d22c1.png": "/static/media/isotipo.8d9d22c1.png",
+    "static/media/meditation.8af7009e.png": "/static/media/meditation.8af7009e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c866947c.js",
+    "static/js/2.c9e92ab1.chunk.js",
+    "static/css/main.00644b81.chunk.css",
+    "static/js/main.e26342f6.chunk.js"
+  ]
+}
